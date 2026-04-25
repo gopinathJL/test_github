@@ -1,0 +1,15 @@
+## Dummy File
+
+  Python
+  Pandas
+  Pyspark
+  Numpy
+  SQL
+  Matplotlib
+  Strucutred Streaming
+  CI/CD
+  Pytest
+  Jenkins
+  Hive
+  Kafka
+  Hdfs
