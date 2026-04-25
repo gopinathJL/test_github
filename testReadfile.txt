@@ -1,5 +1,0 @@
-## Readfile in Data Engineering ##
-
-TOOLS: Python, Pandas, Numpy, Pyspark
-Database: MySQL, MS SQL server
-
